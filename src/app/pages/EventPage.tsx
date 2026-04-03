@@ -5,15 +5,14 @@ import {
   Calendar,
   Clock,
   MapPin,
-  Music,
-  Ticket,
+  Music,  
   Users,
   UtensilsCrossed,
   Info,
   Instagram,
 } from "lucide-react";
-import logoForro from "figma:asset/71519efb38234f0252fbca7335ce606f6a9794f4.png";
-import logoFeijuca from "figma:asset/58b84834ef8115b854613a80a4a211f533f784be.png";
+import logoForro from "../../imports/logoforro.jpeg";
+import logoFeijuca from "../../imports/logofeijuca.jpeg";
 import logoIngresseria from "../../imports/logo-removebg-preview.png";
 import feijucaImage from "../../imports/FEIJUCA.png";
 import forroImage from "../../imports/13_quadrilha-2.png";
@@ -21,7 +20,6 @@ import forro1 from "../../imports/_MG_8481_2.jpg";
 import forro2 from "../../imports/_MG_8500_1.jpg";
 import forro3 from "../../imports/3_de_coracao_interna.png";
 import forro4 from "../../imports/7_vila_seu_jerimum.png";
-import forro5 from "../../imports/13_quadrilha.png";
 import feijuca1 from "../../imports/feijuca_03-1.jpeg";
 import feijuca2 from "../../imports/feijuca_05.jpeg";
 import feijuca3 from "../../imports/feuijuca_02-1.jpeg";

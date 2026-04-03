@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router";
 import { Menu, X } from "lucide-react";
 import { Button } from "./ui/button";
-import logoSeuJerimum from "figma:asset/d2335f6fc674d190a8e66219874ef3978204d51a.png";
+import logoSeuJerimum from "../../imports/logoseuJerimum.png";
 import logoIngresseria from "../../imports/logo-removebg-preview.png";
 
 export function Header() {

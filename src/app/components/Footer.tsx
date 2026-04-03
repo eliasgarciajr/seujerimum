@@ -6,7 +6,7 @@ import {
   Mail,
   Phone,
 } from "lucide-react";
-import logoSeuJerimum from "figma:asset/d2335f6fc674d190a8e66219874ef3978204d51a.png";
+import logoSeuJerimum from "../../imports/logoseuJerimum.png";
 
 export function Footer() {
   return (

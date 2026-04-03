@@ -4,7 +4,6 @@ import { Button } from "../components/ui/button";
 import { EventCard } from "../components/EventCard";
 import { InstagramFeed } from "../components/InstagramFeed";
 import { Calendar, Users, Music, Sparkles } from "lucide-react";
-import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 import { Instagram } from "lucide-react";
 
 // Imports de imagens
