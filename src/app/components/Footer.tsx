@@ -6,7 +6,7 @@ import {
   Mail,
   Phone,
 } from "lucide-react";
-import logoSeuJerimum from "../../imports/logoseuJerimum.png";
+import logoSeuJerimum from "../../imports/logoseujerimum.png";
 
 export function Footer() {
   return (
