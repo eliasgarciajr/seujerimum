@@ -61,7 +61,7 @@ const eventsData: Record<string, any> = {
     logo: logoFeijuca,
     instagramHandle: "@feijucadoseujerimum",
     instagramUrl: "https://instagram.com/feijucadoseujerimum",
-    ticketUrl: "https://www.ingresseria.com.br",
+    ticketUrl: "https://ingresseria.com.br/evento/feijuca-do-seu-jerimum",
     date: "25 de Abril, 2026",
     time: "12h às 20h",
     location: "Seu Jerimum",
